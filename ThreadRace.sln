@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadRace", "ThreadRace\ThreadRace.csproj", "{762062CD-0EC3-4EF6-8ACA-3ECCF77548FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{762062CD-0EC3-4EF6-8ACA-3ECCF77548FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{762062CD-0EC3-4EF6-8ACA-3ECCF77548FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{762062CD-0EC3-4EF6-8ACA-3ECCF77548FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{762062CD-0EC3-4EF6-8ACA-3ECCF77548FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E63FF2C-EDA1-4F70-A5A6-7DC79DCC3056}
+	EndGlobalSection
+EndGlobal
